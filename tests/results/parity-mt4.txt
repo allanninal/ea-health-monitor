@@ -1,0 +1,11 @@
+PASS eh_s1_BTCUSD_H1              snapshots ok 1/1  final: 157 orders, 130 trades, 4 rows
+PASS eh_s1_EURUSD_H1              snapshots ok 28/28  final: 1247 orders, 1014 trades, 4 rows
+PASS eh_s1_GBPJPY_H1              snapshots ok 28/28  final: 3181 orders, 2594 trades, 4 rows
+PASS eh_s1_XAUUSD_H1              snapshots ok 26/26  final: 461 orders, 391 trades, 4 rows
+PASS eh_s1_ticks_EURUSD_H1        snapshots ok 13/13  final: 794 orders, 645 trades, 4 rows
+PASS eh_s2_BTCUSD_H1              snapshots ok 4/4  final: 488 orders, 411 trades, 4 rows
+PASS eh_s2_EURUSD_H1              snapshots ok 4/4  final: 595 orders, 475 trades, 4 rows
+PASS eh_s2_GBPJPY_H1              snapshots ok 37/37  final: 2161 orders, 1770 trades, 4 rows
+PASS eh_s2_XAUUSD_H1              snapshots ok 5/5  final: 655 orders, 542 trades, 4 rows
+
+ALL PASS (146 snapshots, 7972 trades in the final snapshots)

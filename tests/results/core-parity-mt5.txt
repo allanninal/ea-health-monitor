@@ -1,0 +1,7 @@
+deals_0.csv    magics   5 deals    900 trades   346  OK
+deals_1.csv    magics   5 deals   4496 trades  1817  OK
+deals_2.csv    magics   1 deals    905 trades   355  OK
+deals_3.csv    magics   5 deals    117 trades    46  OK
+deals_4.csv    magics   2 deals   1799 trades   708  OK
+deals_5.csv    magics  30 deals   6839 trades  2732  OK
+ALL PASS
